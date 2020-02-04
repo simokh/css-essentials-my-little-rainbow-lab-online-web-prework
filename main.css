@@ -15,5 +15,8 @@ div {
   border-top-color: #f00;
 }
 #orange {
-  border-top_color: #ffa500;
+  border-top: #ffa500;
+}
+#yellow {
+  border-top-color: #ff0;
 }
